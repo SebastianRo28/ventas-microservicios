@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "neu+1lDCvtplAI4588iuydJqDWaWTcKFVBChZMNQxno=",
+  "Source": "Retail.Purchases.Api",
+  "BasePath": "_content/Retail.Purchases.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

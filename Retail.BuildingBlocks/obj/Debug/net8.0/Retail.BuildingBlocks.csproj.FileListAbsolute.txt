@@ -1,0 +1,12 @@
+C:\Users\sebas\source\repos\RetailSystem.Microservices\Retail.BuildingBlocks\bin\Debug\net8.0\Retail.BuildingBlocks.deps.json
+C:\Users\sebas\source\repos\RetailSystem.Microservices\Retail.BuildingBlocks\bin\Debug\net8.0\Retail.BuildingBlocks.dll
+C:\Users\sebas\source\repos\RetailSystem.Microservices\Retail.BuildingBlocks\bin\Debug\net8.0\Retail.BuildingBlocks.pdb
+C:\Users\sebas\source\repos\RetailSystem.Microservices\Retail.BuildingBlocks\obj\Debug\net8.0\Retail.BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\RetailSystem.Microservices\Retail.BuildingBlocks\obj\Debug\net8.0\Retail.BuildingBlocks.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\RetailSystem.Microservices\Retail.BuildingBlocks\obj\Debug\net8.0\Retail.BuildingBlocks.AssemblyInfo.cs
+C:\Users\sebas\source\repos\RetailSystem.Microservices\Retail.BuildingBlocks\obj\Debug\net8.0\Retail.BuildingBlocks.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\RetailSystem.Microservices\Retail.BuildingBlocks\obj\Debug\net8.0\Retail.BuildingBlocks.sourcelink.json
+C:\Users\sebas\source\repos\RetailSystem.Microservices\Retail.BuildingBlocks\obj\Debug\net8.0\Retail.BuildingBlocks.dll
+C:\Users\sebas\source\repos\RetailSystem.Microservices\Retail.BuildingBlocks\obj\Debug\net8.0\refint\Retail.BuildingBlocks.dll
+C:\Users\sebas\source\repos\RetailSystem.Microservices\Retail.BuildingBlocks\obj\Debug\net8.0\Retail.BuildingBlocks.pdb
+C:\Users\sebas\source\repos\RetailSystem.Microservices\Retail.BuildingBlocks\obj\Debug\net8.0\ref\Retail.BuildingBlocks.dll

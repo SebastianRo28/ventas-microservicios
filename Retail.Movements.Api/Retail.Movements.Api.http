@@ -1,0 +1,6 @@
+@Retail.Movements.Api_HostAddress = http://localhost:5079
+
+GET {{Retail.Movements.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

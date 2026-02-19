@@ -1,0 +1,974 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F53C2AA9-38C8-4B93-A019-6A03E4467A5C}|Retail.BuildingBlocks\\Retail.BuildingBlocks.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.buildingblocks\\dtos\\saledtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53C2AA9-38C8-4B93-A019-6A03E4467A5C}|Retail.BuildingBlocks\\Retail.BuildingBlocks.csproj|solutionrelative:retail.buildingblocks\\dtos\\saledtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF3CBD3-CC29-4258-BF94-488712552086}|Retail.Sales.Api\\Retail.Sales.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.sales.api\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF3CBD3-CC29-4258-BF94-488712552086}|Retail.Sales.Api\\Retail.Sales.Api.csproj|solutionrelative:retail.sales.api\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.purchases.api\\controllers\\purchasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|solutionrelative:retail.purchases.api\\controllers\\purchasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.purchases.api\\application\\facades\\listpurchasesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|solutionrelative:retail.purchases.api\\application\\facades\\listpurchasesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF3CBD3-CC29-4258-BF94-488712552086}|Retail.Sales.Api\\Retail.Sales.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.sales.api\\domain\\ventadet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF3CBD3-CC29-4258-BF94-488712552086}|Retail.Sales.Api\\Retail.Sales.Api.csproj|solutionrelative:retail.sales.api\\domain\\ventadet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF3CBD3-CC29-4258-BF94-488712552086}|Retail.Sales.Api\\Retail.Sales.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.sales.api\\domain\\ventacab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF3CBD3-CC29-4258-BF94-488712552086}|Retail.Sales.Api\\Retail.Sales.Api.csproj|solutionrelative:retail.sales.api\\domain\\ventacab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF3CBD3-CC29-4258-BF94-488712552086}|Retail.Sales.Api\\Retail.Sales.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.sales.api\\application\\facades\\listsalesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF3CBD3-CC29-4258-BF94-488712552086}|Retail.Sales.Api\\Retail.Sales.Api.csproj|solutionrelative:retail.sales.api\\application\\facades\\listsalesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF3CBD3-CC29-4258-BF94-488712552086}|Retail.Sales.Api\\Retail.Sales.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.sales.api\\application\\interfaces\\ilistsalesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF3CBD3-CC29-4258-BF94-488712552086}|Retail.Sales.Api\\Retail.Sales.Api.csproj|solutionrelative:retail.sales.api\\application\\interfaces\\ilistsalesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.purchases.api\\domain\\compradet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|solutionrelative:retail.purchases.api\\domain\\compradet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.purchases.api\\domain\\compracab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|solutionrelative:retail.purchases.api\\domain\\compracab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B7F63A-46B1-4B5A-A053-A3DFDA855368}|Retail.Products.Api\\Retail.Products.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.products.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B7F63A-46B1-4B5A-A053-A3DFDA855368}|Retail.Products.Api\\Retail.Products.Api.csproj|solutionrelative:retail.products.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B508529-219D-4DAE-8CDB-B53B32F4CCA7}|Retail.Auth.Api\\Retail.Auth.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.auth.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B508529-219D-4DAE-8CDB-B53B32F4CCA7}|Retail.Auth.Api\\Retail.Auth.Api.csproj|solutionrelative:retail.auth.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B508529-219D-4DAE-8CDB-B53B32F4CCA7}|Retail.Auth.Api\\Retail.Auth.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.auth.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B508529-219D-4DAE-8CDB-B53B32F4CCA7}|Retail.Auth.Api\\Retail.Auth.Api.csproj|solutionrelative:retail.auth.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B7F63A-46B1-4B5A-A053-A3DFDA855368}|Retail.Products.Api\\Retail.Products.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.products.api\\application\\decorators\\registerproductloggingdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B7F63A-46B1-4B5A-A053-A3DFDA855368}|Retail.Products.Api\\Retail.Products.Api.csproj|solutionrelative:retail.products.api\\application\\decorators\\registerproductloggingdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B7F63A-46B1-4B5A-A053-A3DFDA855368}|Retail.Products.Api\\Retail.Products.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.products.api\\application\\facades\\registerproductfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B7F63A-46B1-4B5A-A053-A3DFDA855368}|Retail.Products.Api\\Retail.Products.Api.csproj|solutionrelative:retail.products.api\\application\\facades\\registerproductfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B7F63A-46B1-4B5A-A053-A3DFDA855368}|Retail.Products.Api\\Retail.Products.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.products.api\\application\\interfaces\\iregisterproductfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B7F63A-46B1-4B5A-A053-A3DFDA855368}|Retail.Products.Api\\Retail.Products.Api.csproj|solutionrelative:retail.products.api\\application\\interfaces\\iregisterproductfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B7F63A-46B1-4B5A-A053-A3DFDA855368}|Retail.Products.Api\\Retail.Products.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.products.api\\domain\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B7F63A-46B1-4B5A-A053-A3DFDA855368}|Retail.Products.Api\\Retail.Products.Api.csproj|solutionrelative:retail.products.api\\domain\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B7F63A-46B1-4B5A-A053-A3DFDA855368}|Retail.Products.Api\\Retail.Products.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.products.api\\infrastructure\\productsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B7F63A-46B1-4B5A-A053-A3DFDA855368}|Retail.Products.Api\\Retail.Products.Api.csproj|solutionrelative:retail.products.api\\infrastructure\\productsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA7421C-AF4D-4BE6-A960-76E56B3E400C}|Retail.Movements.Api\\Retail.Movements.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.movements.api\\application\\facades\\listkardexquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA7421C-AF4D-4BE6-A960-76E56B3E400C}|Retail.Movements.Api\\Retail.Movements.Api.csproj|solutionrelative:retail.movements.api\\application\\facades\\listkardexquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA7421C-AF4D-4BE6-A960-76E56B3E400C}|Retail.Movements.Api\\Retail.Movements.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.movements.api\\controllers\\kardexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA7421C-AF4D-4BE6-A960-76E56B3E400C}|Retail.Movements.Api\\Retail.Movements.Api.csproj|solutionrelative:retail.movements.api\\controllers\\kardexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA7421C-AF4D-4BE6-A960-76E56B3E400C}|Retail.Movements.Api\\Retail.Movements.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.movements.api\\infrastructure\\movementsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA7421C-AF4D-4BE6-A960-76E56B3E400C}|Retail.Movements.Api\\Retail.Movements.Api.csproj|solutionrelative:retail.movements.api\\infrastructure\\movementsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B7F63A-46B1-4B5A-A053-A3DFDA855368}|Retail.Products.Api\\Retail.Products.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.products.api\\application\\decorators\\updateproductloggingdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B7F63A-46B1-4B5A-A053-A3DFDA855368}|Retail.Products.Api\\Retail.Products.Api.csproj|solutionrelative:retail.products.api\\application\\decorators\\updateproductloggingdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.purchases.api\\application\\auth\\authheaderaccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|solutionrelative:retail.purchases.api\\application\\auth\\authheaderaccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.purchases.api\\application\\clients\\productsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|solutionrelative:retail.purchases.api\\application\\clients\\productsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF3CBD3-CC29-4258-BF94-488712552086}|Retail.Sales.Api\\Retail.Sales.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.sales.api\\application\\decorators\\registersaleloggingdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF3CBD3-CC29-4258-BF94-488712552086}|Retail.Sales.Api\\Retail.Sales.Api.csproj|solutionrelative:retail.sales.api\\application\\decorators\\registersaleloggingdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF3CBD3-CC29-4258-BF94-488712552086}|Retail.Sales.Api\\Retail.Sales.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.sales.api\\infrastructure\\salesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF3CBD3-CC29-4258-BF94-488712552086}|Retail.Sales.Api\\Retail.Sales.Api.csproj|solutionrelative:retail.sales.api\\infrastructure\\salesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.purchases.api\\infrastructure\\purchasesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|solutionrelative:retail.purchases.api\\infrastructure\\purchasesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B7F63A-46B1-4B5A-A053-A3DFDA855368}|Retail.Products.Api\\Retail.Products.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.products.api\\application\\facades\\updateproductfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B7F63A-46B1-4B5A-A053-A3DFDA855368}|Retail.Products.Api\\Retail.Products.Api.csproj|solutionrelative:retail.products.api\\application\\facades\\updateproductfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B7F63A-46B1-4B5A-A053-A3DFDA855368}|Retail.Products.Api\\Retail.Products.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.products.api\\application\\facades\\listproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B7F63A-46B1-4B5A-A053-A3DFDA855368}|Retail.Products.Api\\Retail.Products.Api.csproj|solutionrelative:retail.products.api\\application\\facades\\listproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.purchases.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|solutionrelative:retail.purchases.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.purchases.api\\application\\facades\\registerpurchasefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|solutionrelative:retail.purchases.api\\application\\facades\\registerpurchasefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.purchases.api\\application\\interfaces\\iauthheaderaccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|solutionrelative:retail.purchases.api\\application\\interfaces\\iauthheaderaccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.purchases.api\\application\\interfaces\\iproductsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|solutionrelative:retail.purchases.api\\application\\interfaces\\iproductsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B7F63A-46B1-4B5A-A053-A3DFDA855368}|Retail.Products.Api\\Retail.Products.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.products.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B7F63A-46B1-4B5A-A053-A3DFDA855368}|Retail.Products.Api\\Retail.Products.Api.csproj|solutionrelative:retail.products.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA7421C-AF4D-4BE6-A960-76E56B3E400C}|Retail.Movements.Api\\Retail.Movements.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.movements.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA7421C-AF4D-4BE6-A960-76E56B3E400C}|Retail.Movements.Api\\Retail.Movements.Api.csproj|solutionrelative:retail.movements.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B508529-219D-4DAE-8CDB-B53B32F4CCA7}|Retail.Auth.Api\\Retail.Auth.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.auth.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B508529-219D-4DAE-8CDB-B53B32F4CCA7}|Retail.Auth.Api\\Retail.Auth.Api.csproj|solutionrelative:retail.auth.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF3CBD3-CC29-4258-BF94-488712552086}|Retail.Sales.Api\\Retail.Sales.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.sales.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF3CBD3-CC29-4258-BF94-488712552086}|Retail.Sales.Api\\Retail.Sales.Api.csproj|solutionrelative:retail.sales.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA7421C-AF4D-4BE6-A960-76E56B3E400C}|Retail.Movements.Api\\Retail.Movements.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.movements.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1DA7421C-AF4D-4BE6-A960-76E56B3E400C}|Retail.Movements.Api\\Retail.Movements.Api.csproj|solutionrelative:retail.movements.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA7421C-AF4D-4BE6-A960-76E56B3E400C}|Retail.Movements.Api\\Retail.Movements.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.movements.api\\application\\interfaces\\ilistkardexquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA7421C-AF4D-4BE6-A960-76E56B3E400C}|Retail.Movements.Api\\Retail.Movements.Api.csproj|solutionrelative:retail.movements.api\\application\\interfaces\\ilistkardexquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA7421C-AF4D-4BE6-A960-76E56B3E400C}|Retail.Movements.Api\\Retail.Movements.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.movements.api\\domain\\movimientodet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA7421C-AF4D-4BE6-A960-76E56B3E400C}|Retail.Movements.Api\\Retail.Movements.Api.csproj|solutionrelative:retail.movements.api\\domain\\movimientodet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA7421C-AF4D-4BE6-A960-76E56B3E400C}|Retail.Movements.Api\\Retail.Movements.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.movements.api\\domain\\movimientocab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA7421C-AF4D-4BE6-A960-76E56B3E400C}|Retail.Movements.Api\\Retail.Movements.Api.csproj|solutionrelative:retail.movements.api\\domain\\movimientocab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.purchases.api\\application\\interfaces\\ilistpurchasesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|solutionrelative:retail.purchases.api\\application\\interfaces\\ilistpurchasesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF3CBD3-CC29-4258-BF94-488712552086}|Retail.Sales.Api\\Retail.Sales.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.sales.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CF3CBD3-CC29-4258-BF94-488712552086}|Retail.Sales.Api\\Retail.Sales.Api.csproj|solutionrelative:retail.sales.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF3CBD3-CC29-4258-BF94-488712552086}|Retail.Sales.Api\\Retail.Sales.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.sales.api\\application\\facades\\registersalefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF3CBD3-CC29-4258-BF94-488712552086}|Retail.Sales.Api\\Retail.Sales.Api.csproj|solutionrelative:retail.sales.api\\application\\facades\\registersalefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF3CBD3-CC29-4258-BF94-488712552086}|Retail.Sales.Api\\Retail.Sales.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.sales.api\\application\\interfaces\\iregistersalefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF3CBD3-CC29-4258-BF94-488712552086}|Retail.Sales.Api\\Retail.Sales.Api.csproj|solutionrelative:retail.sales.api\\application\\interfaces\\iregistersalefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF3CBD3-CC29-4258-BF94-488712552086}|Retail.Sales.Api\\Retail.Sales.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.sales.api\\domain\\movimientocab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF3CBD3-CC29-4258-BF94-488712552086}|Retail.Sales.Api\\Retail.Sales.Api.csproj|solutionrelative:retail.sales.api\\domain\\movimientocab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF3CBD3-CC29-4258-BF94-488712552086}|Retail.Sales.Api\\Retail.Sales.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.sales.api\\domain\\movimientodet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF3CBD3-CC29-4258-BF94-488712552086}|Retail.Sales.Api\\Retail.Sales.Api.csproj|solutionrelative:retail.sales.api\\domain\\movimientodet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B7F63A-46B1-4B5A-A053-A3DFDA855368}|Retail.Products.Api\\Retail.Products.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.products.api\\application\\interfaces\\iupdateproductfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B7F63A-46B1-4B5A-A053-A3DFDA855368}|Retail.Products.Api\\Retail.Products.Api.csproj|solutionrelative:retail.products.api\\application\\interfaces\\iupdateproductfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B7F63A-46B1-4B5A-A053-A3DFDA855368}|Retail.Products.Api\\Retail.Products.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.products.api\\application\\interfaces\\ilistproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B7F63A-46B1-4B5A-A053-A3DFDA855368}|Retail.Products.Api\\Retail.Products.Api.csproj|solutionrelative:retail.products.api\\application\\interfaces\\ilistproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.purchases.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|solutionrelative:retail.purchases.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B508529-219D-4DAE-8CDB-B53B32F4CCA7}|Retail.Auth.Api\\Retail.Auth.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.auth.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B508529-219D-4DAE-8CDB-B53B32F4CCA7}|Retail.Auth.Api\\Retail.Auth.Api.csproj|solutionrelative:retail.auth.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.purchases.api\\application\\interfaces\\iregisterpurchasefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|solutionrelative:retail.purchases.api\\application\\interfaces\\iregisterpurchasefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.purchases.api\\application\\decorators\\registerpurchaseloggingdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|solutionrelative:retail.purchases.api\\application\\decorators\\registerpurchaseloggingdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.purchases.api\\domain\\movimientocab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|solutionrelative:retail.purchases.api\\domain\\movimientocab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.purchases.api\\domain\\movimientodet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FC0B26-C038-49BF-ACBE-12806775D40F}|Retail.Purchases.Api\\Retail.Purchases.Api.csproj|solutionrelative:retail.purchases.api\\domain\\movimientodet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53C2AA9-38C8-4B93-A019-6A03E4467A5C}|Retail.BuildingBlocks\\Retail.BuildingBlocks.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.buildingblocks\\security\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53C2AA9-38C8-4B93-A019-6A03E4467A5C}|Retail.BuildingBlocks\\Retail.BuildingBlocks.csproj|solutionrelative:retail.buildingblocks\\security\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53C2AA9-38C8-4B93-A019-6A03E4467A5C}|Retail.BuildingBlocks\\Retail.BuildingBlocks.csproj|c:\\users\\sebas\\source\\repos\\retailsystem.microservices\\retail.buildingblocks\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53C2AA9-38C8-4B93-A019-6A03E4467A5C}|Retail.BuildingBlocks\\Retail.BuildingBlocks.csproj|solutionrelative:retail.buildingblocks\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaleDtos.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.BuildingBlocks\\Dtos\\SaleDtos.cs",
+              "RelativeDocumentMoniker": "Retail.BuildingBlocks\\Dtos\\SaleDtos.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.BuildingBlocks\\Dtos\\SaleDtos.cs",
+              "RelativeToolTip": "Retail.BuildingBlocks\\Dtos\\SaleDtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T02:14:08.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterProductFacade.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Products.Api\\Application\\Facades\\RegisterProductFacade.cs",
+              "RelativeDocumentMoniker": "Retail.Products.Api\\Application\\Facades\\RegisterProductFacade.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Products.Api\\Application\\Facades\\RegisterProductFacade.cs",
+              "RelativeToolTip": "Retail.Products.Api\\Application\\Facades\\RegisterProductFacade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T20:30:43.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Sales.Api\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "Retail.Sales.Api\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Sales.Api\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "Retail.Sales.Api\\Controllers\\SalesController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T22:27:12.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IListSalesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Sales.Api\\Application\\Interfaces\\IListSalesQuery.cs",
+              "RelativeDocumentMoniker": "Retail.Sales.Api\\Application\\Interfaces\\IListSalesQuery.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Sales.Api\\Application\\Interfaces\\IListSalesQuery.cs",
+              "RelativeToolTip": "Retail.Sales.Api\\Application\\Interfaces\\IListSalesQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T21:56:33.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListSalesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Sales.Api\\Application\\Facades\\ListSalesQuery.cs",
+              "RelativeDocumentMoniker": "Retail.Sales.Api\\Application\\Facades\\ListSalesQuery.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Sales.Api\\Application\\Facades\\ListSalesQuery.cs",
+              "RelativeToolTip": "Retail.Sales.Api\\Application\\Facades\\ListSalesQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T22:24:16.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VentaCab.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Sales.Api\\Domain\\VentaCab.cs",
+              "RelativeDocumentMoniker": "Retail.Sales.Api\\Domain\\VentaCab.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Sales.Api\\Domain\\VentaCab.cs",
+              "RelativeToolTip": "Retail.Sales.Api\\Domain\\VentaCab.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T21:49:25.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VentaDet.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Sales.Api\\Domain\\VentaDet.cs",
+              "RelativeDocumentMoniker": "Retail.Sales.Api\\Domain\\VentaDet.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Sales.Api\\Domain\\VentaDet.cs",
+              "RelativeToolTip": "Retail.Sales.Api\\Domain\\VentaDet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T21:49:47.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PurchasesController.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Controllers\\PurchasesController.cs",
+              "RelativeDocumentMoniker": "Retail.Purchases.Api\\Controllers\\PurchasesController.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Controllers\\PurchasesController.cs",
+              "RelativeToolTip": "Retail.Purchases.Api\\Controllers\\PurchasesController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:40:16.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListPurchasesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Application\\Facades\\ListPurchasesQuery.cs",
+              "RelativeDocumentMoniker": "Retail.Purchases.Api\\Application\\Facades\\ListPurchasesQuery.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Application\\Facades\\ListPurchasesQuery.cs",
+              "RelativeToolTip": "Retail.Purchases.Api\\Application\\Facades\\ListPurchasesQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T02:06:49.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CompraDet.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Domain\\CompraDet.cs",
+              "RelativeDocumentMoniker": "Retail.Purchases.Api\\Domain\\CompraDet.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Domain\\CompraDet.cs",
+              "RelativeToolTip": "Retail.Purchases.Api\\Domain\\CompraDet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T07:17:41.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CompraCab.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Domain\\CompraCab.cs",
+              "RelativeDocumentMoniker": "Retail.Purchases.Api\\Domain\\CompraCab.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Domain\\CompraCab.cs",
+              "RelativeToolTip": "Retail.Purchases.Api\\Domain\\CompraCab.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T07:17:14.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Auth.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Retail.Auth.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Auth.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Retail.Auth.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T06:30:43.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Products.Api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Retail.Products.Api\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Products.Api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Retail.Products.Api\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAcwEgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T20:49:19.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterProductLoggingDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Products.Api\\Application\\Decorators\\RegisterProductLoggingDecorator.cs",
+              "RelativeDocumentMoniker": "Retail.Products.Api\\Application\\Decorators\\RegisterProductLoggingDecorator.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Products.Api\\Application\\Decorators\\RegisterProductLoggingDecorator.cs",
+              "RelativeToolTip": "Retail.Products.Api\\Application\\Decorators\\RegisterProductLoggingDecorator.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T21:16:47.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRegisterProductFacade.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Products.Api\\Application\\Interfaces\\IRegisterProductFacade.cs",
+              "RelativeDocumentMoniker": "Retail.Products.Api\\Application\\Interfaces\\IRegisterProductFacade.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Products.Api\\Application\\Interfaces\\IRegisterProductFacade.cs",
+              "RelativeToolTip": "Retail.Products.Api\\Application\\Interfaces\\IRegisterProductFacade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T21:13:58.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Products.Api\\Infrastructure\\ProductsDbContext.cs",
+              "RelativeDocumentMoniker": "Retail.Products.Api\\Infrastructure\\ProductsDbContext.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Products.Api\\Infrastructure\\ProductsDbContext.cs",
+              "RelativeToolTip": "Retail.Products.Api\\Infrastructure\\ProductsDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T20:19:08.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Auth.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Retail.Auth.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Auth.Api\\appsettings.json",
+              "RelativeToolTip": "Retail.Auth.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-17T06:00:59.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Products.Api\\Domain\\Producto.cs",
+              "RelativeDocumentMoniker": "Retail.Products.Api\\Domain\\Producto.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Products.Api\\Domain\\Producto.cs",
+              "RelativeToolTip": "Retail.Products.Api\\Domain\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T01:44:11.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ListKardexQuery.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Movements.Api\\Application\\Facades\\ListKardexQuery.cs",
+              "RelativeDocumentMoniker": "Retail.Movements.Api\\Application\\Facades\\ListKardexQuery.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Movements.Api\\Application\\Facades\\ListKardexQuery.cs",
+              "RelativeToolTip": "Retail.Movements.Api\\Application\\Facades\\ListKardexQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T23:08:11.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MovementsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Movements.Api\\Infrastructure\\MovementsDbContext.cs",
+              "RelativeDocumentMoniker": "Retail.Movements.Api\\Infrastructure\\MovementsDbContext.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Movements.Api\\Infrastructure\\MovementsDbContext.cs",
+              "RelativeToolTip": "Retail.Movements.Api\\Infrastructure\\MovementsDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T23:05:25.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "KardexController.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Movements.Api\\Controllers\\KardexController.cs",
+              "RelativeDocumentMoniker": "Retail.Movements.Api\\Controllers\\KardexController.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Movements.Api\\Controllers\\KardexController.cs",
+              "RelativeToolTip": "Retail.Movements.Api\\Controllers\\KardexController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T23:09:46.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateProductLoggingDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Products.Api\\Application\\Decorators\\UpdateProductLoggingDecorator.cs",
+              "RelativeDocumentMoniker": "Retail.Products.Api\\Application\\Decorators\\UpdateProductLoggingDecorator.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Products.Api\\Application\\Decorators\\UpdateProductLoggingDecorator.cs",
+              "RelativeToolTip": "Retail.Products.Api\\Application\\Decorators\\UpdateProductLoggingDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T21:22:59.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthHeaderAccessor.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Application\\Auth\\AuthHeaderAccessor.cs",
+              "RelativeDocumentMoniker": "Retail.Purchases.Api\\Application\\Auth\\AuthHeaderAccessor.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Application\\Auth\\AuthHeaderAccessor.cs",
+              "RelativeToolTip": "Retail.Purchases.Api\\Application\\Auth\\AuthHeaderAccessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:57:08.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductsClient.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Application\\Clients\\ProductsClient.cs",
+              "RelativeDocumentMoniker": "Retail.Purchases.Api\\Application\\Clients\\ProductsClient.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Application\\Clients\\ProductsClient.cs",
+              "RelativeToolTip": "Retail.Purchases.Api\\Application\\Clients\\ProductsClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:55:56.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegisterSaleLoggingDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Sales.Api\\Application\\Decorators\\RegisterSaleLoggingDecorator.cs",
+              "RelativeDocumentMoniker": "Retail.Sales.Api\\Application\\Decorators\\RegisterSaleLoggingDecorator.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Sales.Api\\Application\\Decorators\\RegisterSaleLoggingDecorator.cs",
+              "RelativeToolTip": "Retail.Sales.Api\\Application\\Decorators\\RegisterSaleLoggingDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T22:25:20.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SalesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Sales.Api\\Infrastructure\\SalesDbContext.cs",
+              "RelativeDocumentMoniker": "Retail.Sales.Api\\Infrastructure\\SalesDbContext.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Sales.Api\\Infrastructure\\SalesDbContext.cs",
+              "RelativeToolTip": "Retail.Sales.Api\\Infrastructure\\SalesDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T21:52:37.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PurchasesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Infrastructure\\PurchasesDbContext.cs",
+              "RelativeDocumentMoniker": "Retail.Purchases.Api\\Infrastructure\\PurchasesDbContext.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Infrastructure\\PurchasesDbContext.cs",
+              "RelativeToolTip": "Retail.Purchases.Api\\Infrastructure\\PurchasesDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T07:19:10.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateProductFacade.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Products.Api\\Application\\Facades\\UpdateProductFacade.cs",
+              "RelativeDocumentMoniker": "Retail.Products.Api\\Application\\Facades\\UpdateProductFacade.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Products.Api\\Application\\Facades\\UpdateProductFacade.cs",
+              "RelativeToolTip": "Retail.Products.Api\\Application\\Facades\\UpdateProductFacade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T21:15:37.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ListProductsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Products.Api\\Application\\Facades\\ListProductsQuery.cs",
+              "RelativeDocumentMoniker": "Retail.Products.Api\\Application\\Facades\\ListProductsQuery.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Products.Api\\Application\\Facades\\ListProductsQuery.cs",
+              "RelativeToolTip": "Retail.Products.Api\\Application\\Facades\\ListProductsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T20:32:01.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RegisterPurchaseFacade.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Application\\Facades\\RegisterPurchaseFacade.cs",
+              "RelativeDocumentMoniker": "Retail.Purchases.Api\\Application\\Facades\\RegisterPurchaseFacade.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Application\\Facades\\RegisterPurchaseFacade.cs",
+              "RelativeToolTip": "Retail.Purchases.Api\\Application\\Facades\\RegisterPurchaseFacade.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:31:44.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IProductsClient.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Application\\Interfaces\\IProductsClient.cs",
+              "RelativeDocumentMoniker": "Retail.Purchases.Api\\Application\\Interfaces\\IProductsClient.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Application\\Interfaces\\IProductsClient.cs",
+              "RelativeToolTip": "Retail.Purchases.Api\\Application\\Interfaces\\IProductsClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:54:56.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Retail.Purchases.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Program.cs",
+              "RelativeToolTip": "Retail.Purchases.Api\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T22:41:09.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IListPurchasesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Application\\Interfaces\\IListPurchasesQuery.cs",
+              "RelativeDocumentMoniker": "Retail.Purchases.Api\\Application\\Interfaces\\IListPurchasesQuery.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Application\\Interfaces\\IListPurchasesQuery.cs",
+              "RelativeToolTip": "Retail.Purchases.Api\\Application\\Interfaces\\IListPurchasesQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T22:38:44.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IAuthHeaderAccessor.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Application\\Interfaces\\IAuthHeaderAccessor.cs",
+              "RelativeDocumentMoniker": "Retail.Purchases.Api\\Application\\Interfaces\\IAuthHeaderAccessor.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Application\\Interfaces\\IAuthHeaderAccessor.cs",
+              "RelativeToolTip": "Retail.Purchases.Api\\Application\\Interfaces\\IAuthHeaderAccessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:56:35.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Sales.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Retail.Sales.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Sales.Api\\Program.cs",
+              "RelativeToolTip": "Retail.Sales.Api\\Program.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T06:29:12.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Products.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Retail.Products.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Products.Api\\Program.cs",
+              "RelativeToolTip": "Retail.Products.Api\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwEAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T06:28:54.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Auth.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Retail.Auth.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Auth.Api\\Program.cs",
+              "RelativeToolTip": "Retail.Auth.Api\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:46:34.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Movements.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Retail.Movements.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Movements.Api\\appsettings.json",
+              "RelativeToolTip": "Retail.Movements.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-17T06:08:27.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Movements.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Retail.Movements.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Movements.Api\\Program.cs",
+              "RelativeToolTip": "Retail.Movements.Api\\Program.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAuwGUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T06:21:20.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IListKardexQuery.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Movements.Api\\Application\\Interfaces\\IListKardexQuery.cs",
+              "RelativeDocumentMoniker": "Retail.Movements.Api\\Application\\Interfaces\\IListKardexQuery.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Movements.Api\\Application\\Interfaces\\IListKardexQuery.cs",
+              "RelativeToolTip": "Retail.Movements.Api\\Application\\Interfaces\\IListKardexQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T23:07:07.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MovimientoCab.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Movements.Api\\Domain\\MovimientoCab.cs",
+              "RelativeDocumentMoniker": "Retail.Movements.Api\\Domain\\MovimientoCab.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Movements.Api\\Domain\\MovimientoCab.cs",
+              "RelativeToolTip": "Retail.Movements.Api\\Domain\\MovimientoCab.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T07:18:14.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MovimientoDet.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Movements.Api\\Domain\\MovimientoDet.cs",
+              "RelativeDocumentMoniker": "Retail.Movements.Api\\Domain\\MovimientoDet.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Movements.Api\\Domain\\MovimientoDet.cs",
+              "RelativeToolTip": "Retail.Movements.Api\\Domain\\MovimientoDet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T07:18:36.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RegisterSaleFacade.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Sales.Api\\Application\\Facades\\RegisterSaleFacade.cs",
+              "RelativeDocumentMoniker": "Retail.Sales.Api\\Application\\Facades\\RegisterSaleFacade.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Sales.Api\\Application\\Facades\\RegisterSaleFacade.cs",
+              "RelativeToolTip": "Retail.Sales.Api\\Application\\Facades\\RegisterSaleFacade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T21:57:08.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IRegisterSaleFacade.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Sales.Api\\Application\\Interfaces\\IRegisterSaleFacade.cs",
+              "RelativeDocumentMoniker": "Retail.Sales.Api\\Application\\Interfaces\\IRegisterSaleFacade.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Sales.Api\\Application\\Interfaces\\IRegisterSaleFacade.cs",
+              "RelativeToolTip": "Retail.Sales.Api\\Application\\Interfaces\\IRegisterSaleFacade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T21:54:13.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Sales.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Retail.Sales.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Sales.Api\\appsettings.json",
+              "RelativeToolTip": "Retail.Sales.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-17T06:08:55.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MovimientoCab.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Sales.Api\\Domain\\MovimientoCab.cs",
+              "RelativeDocumentMoniker": "Retail.Sales.Api\\Domain\\MovimientoCab.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Sales.Api\\Domain\\MovimientoCab.cs",
+              "RelativeToolTip": "Retail.Sales.Api\\Domain\\MovimientoCab.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T21:51:33.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MovimientoDet.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Sales.Api\\Domain\\MovimientoDet.cs",
+              "RelativeDocumentMoniker": "Retail.Sales.Api\\Domain\\MovimientoDet.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Sales.Api\\Domain\\MovimientoDet.cs",
+              "RelativeToolTip": "Retail.Sales.Api\\Domain\\MovimientoDet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T21:51:59.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IUpdateProductFacade.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Products.Api\\Application\\Interfaces\\IUpdateProductFacade.cs",
+              "RelativeDocumentMoniker": "Retail.Products.Api\\Application\\Interfaces\\IUpdateProductFacade.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Products.Api\\Application\\Interfaces\\IUpdateProductFacade.cs",
+              "RelativeToolTip": "Retail.Products.Api\\Application\\Interfaces\\IUpdateProductFacade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T21:14:40.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IListProductsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Products.Api\\Application\\Interfaces\\IListProductsQuery.cs",
+              "RelativeDocumentMoniker": "Retail.Products.Api\\Application\\Interfaces\\IListProductsQuery.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Products.Api\\Application\\Interfaces\\IListProductsQuery.cs",
+              "RelativeToolTip": "Retail.Products.Api\\Application\\Interfaces\\IListProductsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T20:27:14.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Retail.Purchases.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\appsettings.json",
+              "RelativeToolTip": "Retail.Purchases.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-17T18:37:27.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Auth.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Retail.Auth.Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Auth.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Retail.Auth.Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T18:32:45.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IRegisterPurchaseFacade.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Application\\Interfaces\\IRegisterPurchaseFacade.cs",
+              "RelativeDocumentMoniker": "Retail.Purchases.Api\\Application\\Interfaces\\IRegisterPurchaseFacade.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Application\\Interfaces\\IRegisterPurchaseFacade.cs",
+              "RelativeToolTip": "Retail.Purchases.Api\\Application\\Interfaces\\IRegisterPurchaseFacade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T07:23:19.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "MovimientoCab.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Domain\\MovimientoCab.cs",
+              "RelativeDocumentMoniker": "Retail.Purchases.Api\\Domain\\MovimientoCab.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Domain\\MovimientoCab.cs",
+              "RelativeToolTip": "Retail.Purchases.Api\\Domain\\MovimientoCab.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T07:20:42.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "MovimientoDet.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Domain\\MovimientoDet.cs",
+              "RelativeDocumentMoniker": "Retail.Purchases.Api\\Domain\\MovimientoDet.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Domain\\MovimientoDet.cs",
+              "RelativeToolTip": "Retail.Purchases.Api\\Domain\\MovimientoDet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T07:21:01.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "RegisterPurchaseLoggingDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Application\\Decorators\\RegisterPurchaseLoggingDecorator.cs",
+              "RelativeDocumentMoniker": "Retail.Purchases.Api\\Application\\Decorators\\RegisterPurchaseLoggingDecorator.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.Purchases.Api\\Application\\Decorators\\RegisterPurchaseLoggingDecorator.cs",
+              "RelativeToolTip": "Retail.Purchases.Api\\Application\\Decorators\\RegisterPurchaseLoggingDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:35:15.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.BuildingBlocks\\Security\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Retail.BuildingBlocks\\Security\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.BuildingBlocks\\Security\\JwtSettings.cs",
+              "RelativeToolTip": "Retail.BuildingBlocks\\Security\\JwtSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T06:11:48.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.BuildingBlocks\\Class1.cs",
+              "RelativeDocumentMoniker": "Retail.BuildingBlocks\\Class1.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\RetailSystem.Microservices\\Retail.BuildingBlocks\\Class1.cs",
+              "RelativeToolTip": "Retail.BuildingBlocks\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T05:09:58.266Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

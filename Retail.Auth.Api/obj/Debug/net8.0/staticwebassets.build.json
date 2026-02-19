@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PTkNp/9z13qCn9h7AecGJpc0SBPU9lI1jUWdh9UWTEM=",
+  "Source": "Retail.Auth.Api",
+  "BasePath": "_content/Retail.Auth.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Retail.Auth.Api.props" />
+</Project>
